@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "992779099398",
+    "project_id": "shurokkha-agent",
+    "storage_bucket": "shurokkha-agent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992779099398:android:5176658b7a5a8ec19b9287",
+        "android_client_info": {
+          "package_name": "com.bluesoftit.shurokkha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992779099398-gdvp4sbafn2d3vimrls7el1tv0u0tigl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluesoftit.shurokkha",
+            "certificate_hash": "7fd0cb2255b5e90d07e0d05c3f5e94aeae797806"
+          }
+        },
+        {
+          "client_id": "992779099398-m8sm8v64f87qauvat5nu8mn687n521nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGLYCCnD4mN5DfVeEbkmCpOHsBCts-eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992779099398-m8sm8v64f87qauvat5nu8mn687n521nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992779099398:android:f5276de06377fdc59b9287",
+        "android_client_info": {
+          "package_name": "com.bluesoftit.shurokkhaagentaccounts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992779099398-m8sm8v64f87qauvat5nu8mn687n521nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGLYCCnD4mN5DfVeEbkmCpOHsBCts-eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992779099398-m8sm8v64f87qauvat5nu8mn687n521nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992779099398:android:56d0f63c1464326e9b9287",
+        "android_client_info": {
+          "package_name": "com.example.surokkha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992779099398-m8sm8v64f87qauvat5nu8mn687n521nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGLYCCnD4mN5DfVeEbkmCpOHsBCts-eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992779099398-m8sm8v64f87qauvat5nu8mn687n521nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
